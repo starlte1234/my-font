@@ -1,12 +1,7 @@
-@font-face {
-    font-family: "BaGlasses";
-    src: url("https://cdn.jsdelivr.net/gh/starlte1234/my-font/BaGlassesLight_K.woff2") format("woff2");
-    font-weight: 300;
-    font-style: normal;
-}
+<div style="font-family: Batang, '바탕', serif; font-size:20px;">
+바탕체 테스트
+</div>
 
-html,
-body,
-body * {
-    font-family: "BaGlasses", sans-serif !important;
-}
+<script>
+document.body.style.fontFamily = "Batang, 바탕, serif";
+</script>
