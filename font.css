@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "BaGlasses";
+    src: url("https://cdn.jsdelivr.net/gh/starlte1234/my-font/BaGlassesLight_K.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+
+.font-test {
+    font-family: "BaGlasses", sans-serif !important;
+}
