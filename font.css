@@ -5,6 +5,8 @@
     font-style: normal;
 }
 
-.font-test {
+html,
+body,
+body * {
     font-family: "BaGlasses", sans-serif !important;
 }
